@@ -1,0 +1,19 @@
+Package: argonpkg
+Title: An Example of a golem app wrapping an argon dashboard template..
+Version: 0.0.0.9
+Authors@R: 
+    person(given = "Ernest", 
+           family = "Omane-Kodie", 
+           email = "eokodie@gmail.com", 
+           role = c("aut", "cre"))
+Description: An Example of a golem app wrapping an argon dashboard template.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    shiny, 
+    golem,
+    argonR,
+    argonDash,
+    magrittr
+RoxygenNote: 6.1.1
