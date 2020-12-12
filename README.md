@@ -5,16 +5,10 @@
 
 <div data-align="center">
 
-<!-- hex -->
-
-<!-- <img src="./man/figures/logo.png" height = "200px" /> -->
-
 <!-- badges: start -->
 
-<!-- Experimental -->
-
 [![Lifecycle:
-experimental](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://www.tidyverse.org/lifecycle/#stable)
+experimental](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
 
 <!-- badges: end -->
 
